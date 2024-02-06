@@ -1,6 +1,6 @@
 # Car Shop Management System
 
-![Console Screenshot]("C:\Users\ffam5\OneDrive\Bilder\Screenshots\Снимок экрана 2024-02-06 160748.png")
+![Console Screenshot]C:\Users\ffam5\OneDrive\Bilder\Screenshots\Снимок экрана 2024-02-06 160748.png
 
 ## Overview
 The Car Shop Management System is a console-based application developed in C++ using Visual Studio 2022. It provides a comprehensive solution for managing the inventory of cars and the staff of a car shop. This project was developed as a learning exercise during the process of mastering C++ programming concepts.
