@@ -27,7 +27,7 @@ The Car Shop Management System is a console-based application developed in C++ u
 
 ## Development Environment
 - **IDE:** Visual Studio 2022
-- **Compiler:** MSVC (Microsoft Visual C++) [Version X.X.X]
+- **Compiler:** MSVC (Microsoft Visual C++) 
 - **Operating System:** Windows 11
 
 ## Contributors
