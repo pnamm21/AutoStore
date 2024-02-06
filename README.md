@@ -1,5 +1,6 @@
 # Car Shop Management System
 
+Console Review Screenshot
 ![Снимок экрана 2024-02-06 160748](https://github.com/pnamm21/AutoStore/assets/123586816/1a0e9d02-9639-4c39-be7c-d5a472af5f0a)
 
 ## Overview
