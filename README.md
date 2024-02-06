@@ -34,5 +34,5 @@ The Car Shop Management System is a console-based application developed in C++ u
 - ![image](https://github.com/pnamm21/AutoStore/assets/123586816/3372cda5-cad3-4cd3-a338-1e461c1921cf)
 
 
-## Contributors
+## Contributor
 - Pham Nam
