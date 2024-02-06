@@ -20,6 +20,7 @@ The Car Shop Management System is a console-based application developed in C++ u
 - **Dynamic Memory Allocation:** Used for managing resources at runtime.
 - **Standard Template Library (STL):** Likely utilized for string manipulation and algorithms.
 - **System Commands:** Employed for console screen clearing.
+- ![image](https://github.com/pnamm21/AutoStore/assets/123586816/3ebb6c41-1425-4a05-8c4f-b6707a90816b)
 
 ## Usage
 1. Compile the source code using Visual Studio 2022.
@@ -30,6 +31,8 @@ The Car Shop Management System is a console-based application developed in C++ u
 - **IDE:** Visual Studio 2022
 - **Compiler:** MSVC (Microsoft Visual C++) 
 - **Operating System:** Windows 11
+- ![image](https://github.com/pnamm21/AutoStore/assets/123586816/3372cda5-cad3-4cd3-a338-1e461c1921cf)
+
 
 ## Contributors
 - Pham Nam
